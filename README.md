@@ -4,6 +4,6 @@
 - 📫 Subscribe to email updates https://nazavo.com/subscribe
 - 🐦 My twitter https://twitter.com/naz_avo
 - 🏗️ Current projects https://nazavo.com/projects/ 
-  - [SnappyReply](https://snappyreply.com/)
-  - [AgeLens](https://agelens.com/)
-  - [FeedbackPulse](https://feedbackpulse.com/))
+  - [SnappyReply - AirBnB host's best helping hand](https://snappyreply.com/)
+  - [AgeLens - fun with AI image generation, see yourself old](https://agelens.com/)
+  - [FeedbackPulse - employee feedback survey app ](https://feedbackpulse.com/)
